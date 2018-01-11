@@ -1,0 +1,5 @@
+eclipse
+sbt test
+exit
+test
+exit

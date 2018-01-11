@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\lenovo\Documents\GitHub\bigdata\spark\projects\apache-log-parsing_sbt\src\test\scala\com\cloudxlab\logparsing\log-parser-test.scala:25:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m"CLASSA" should "Return true if class is A" in {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
